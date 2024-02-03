@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DEC35E39-941A-4EEC-9172-FCBDFBAB5F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Univerisity", "src\Univerisity\Univerisity.csproj", "{DE0C4A1A-C7F9-4EBE-A364-4F5DECA6CDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0C4A1A-C7F9-4EBE-A364-4F5DECA6CDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0C4A1A-C7F9-4EBE-A364-4F5DECA6CDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0C4A1A-C7F9-4EBE-A364-4F5DECA6CDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0C4A1A-C7F9-4EBE-A364-4F5DECA6CDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DE0C4A1A-C7F9-4EBE-A364-4F5DECA6CDB7} = {DEC35E39-941A-4EEC-9172-FCBDFBAB5F17}
+	EndGlobalSection
+EndGlobal

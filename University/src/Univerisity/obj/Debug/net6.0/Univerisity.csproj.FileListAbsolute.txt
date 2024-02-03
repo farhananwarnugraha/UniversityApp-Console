@@ -1,0 +1,14 @@
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\bin\Debug\net6.0\Univerisity.exe
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\bin\Debug\net6.0\Univerisity.deps.json
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\bin\Debug\net6.0\Univerisity.runtimeconfig.json
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\bin\Debug\net6.0\Univerisity.dll
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\bin\Debug\net6.0\Univerisity.pdb
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\obj\Debug\net6.0\Univerisity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\obj\Debug\net6.0\Univerisity.AssemblyInfoInputs.cache
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\obj\Debug\net6.0\Univerisity.AssemblyInfo.cs
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\obj\Debug\net6.0\Univerisity.csproj.CoreCompileInputs.cache
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\obj\Debug\net6.0\Univerisity.dll
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\obj\Debug\net6.0\refint\Univerisity.dll
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\obj\Debug\net6.0\Univerisity.pdb
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\obj\Debug\net6.0\Univerisity.genruntimeconfig.cache
+C:\Farhan Anwar Nugraha_University_BC42\University\src\Univerisity\obj\Debug\net6.0\ref\Univerisity.dll
